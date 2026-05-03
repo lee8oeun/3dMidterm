@@ -1,0 +1,26 @@
+[30144:30140:0503/172730.219:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30144:30568:0503/172730.282:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30144:30140:0503/172730.315:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31084:16140:0503/172734.762:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CBED2B04309B4C8B6FB2EAB9421C64E7 will be ignored
+[30144:30300:0503/173615.180:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:13144:0503/173615.215:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173653.415:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30864:0503/173653.611:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173658.419:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30864:0503/173658.622:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173708.423:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30864:0503/173708.638:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30864:0503/173710.678:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173710.760:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30868:0503/173710.787:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173715.766:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:15376:0503/173715.799:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173725.768:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30864:0503/173725.804:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30140:0503/173726.507:ERROR:device_event_log_impl.cc(196)] [17:37:26.397] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[30144:30300:0503/173745.772:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30864:0503/173745.814:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173920.820:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14396:30864:0503/173920.837:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30300:0503/173920.898:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30144:30140:0503/181250.875:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
